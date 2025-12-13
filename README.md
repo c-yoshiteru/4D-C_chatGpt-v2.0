@@ -48,7 +48,7 @@ AIとの集団コウサク実践フレームワーク
 ## まずどこから読む？
 
 ""クイックスタート""
-tutorial/quick_start
+tutorial/quick_start.md
 
 - **初見の人**
   - `/docs/A_基礎理論/概要.md`
