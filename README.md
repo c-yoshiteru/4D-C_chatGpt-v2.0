@@ -33,4 +33,9 @@ AIとの集団コウサク実践フレームワーク
 ## 構成（Structure）
 
 
+/docs ├─ A_基礎理論 │   ├─ 概要.md │   ├─ A2_キーワード.md │   ├─ A3_詳細.md │   ├─ A4_構造.md │   ├─ A5_注意点.md │   └─ A6_まとめ.md │ ├─ B_実践ガイド │   ├─ B1_全体像.md │   ├─ B2_コヒーレントとインコヒーレント.md │   ├─ B3_リスク分析.md │   ├─ B4_プロトコル.md │   ├─ B5_可視化.md │   ├─ B6_DeepDive.md │   ├─ B7_応用.md │   └─ B8_補足と発展.md │ ├─ deep_dive_4D-C.md │ /diagrams └─ Mermaid / 図解用素材
+
+
+
+
 
