@@ -57,12 +57,12 @@ tutorial/quick_start.md
   - `B_実践ガイド/B1_全体像.md`
 
 - **実践したい人**
-  - `/docs/B_実践ガイド/B4_プロトコル.md`
-  - `/docs/B_実践ガイド/B7_応用.md`
+  - `B_実践ガイド/B4_プロトコル.md`
+  - `B_実践ガイド/B7_応用.md`
 
 - **猛者向け（思想・構造）**
-  - `/docs/B_実践ガイド/B6_DeepDive.md`
-  - `/docs/deep_dive_4D-C.md`
+  - `B_実践ガイド/B6_DeepDive.md`
+  - `deep_dive_4D-C.md`
 
 ---
 
